@@ -1,3 +1,5 @@
+// this code was taken from the class lecture. 
+
 public class LinkStack<T> implements IStack<T>
 {
   private class Cell<T>
