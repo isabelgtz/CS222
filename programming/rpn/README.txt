@@ -31,6 +31,6 @@ UnknownOpException.java     - Exception for using an unknown operator
 RingQueue.class      - A compiled ring queue
 LinkStack.class      - A compiled link based stack
 LinkStack$Link.class - A compiled link implementation for the stack
-LinkStack.java       - A class that implements pop and push methods for a linked stack. (This code was taken from the one we                           did in class). 
+LinkStack.java       - A class that implements pop and push methods for a linked stack. (This code was taken from the one we did in class). 
 ArrayQueue.java      -A class that implements pop and push methods for an array queue. 
 
