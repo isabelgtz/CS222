@@ -10,3 +10,6 @@ ISLink.java - An interface that your link cells for SingleLinkList must implemen
 IDLink.java - An interface that your link cells for DoubleLinkList must implement
 Test.java   - A fairly good but incomplete test suite (e.g. insert is not tested well)
 TestFailedException.java - An exception thrown when a test failure is detected
+ArrayList.java -A class that implements IList using Arrays. 
+DoubleLinkList.java   -A class that implements IList and has a subclass that implements IDLink. 
+SingleLinkList.java    -A Class that implements IList and has a subclass that implements ISLink.
