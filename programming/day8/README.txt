@@ -10,3 +10,5 @@ shortlist.txt - a 50000 word list
 words_alpha.txt - a 370098 word list
 Dict.java -A program that implements a dictionary backed by a Double Link List. 
 BSTree.java - A program that implements a dictionary backed by a Binary Search Tree 
+DoubleLinkList.java -A program that implements a Double Link List. 
+IDLink. java -An interface for the nodes used in the Double Link List. 
