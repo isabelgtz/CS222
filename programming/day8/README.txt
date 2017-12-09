@@ -8,3 +8,5 @@ IList.java - An interface for a list implementation (matches day4)
 IDict.java - An interface for dictionaries
 shortlist.txt - a 50000 word list
 words_alpha.txt - a 370098 word list
+Dict.java -A program that implements a dictionary backed by a Double Link List. 
+BSTree.java - A program that implements a dictionary backed by a Binary Search Tree 
